@@ -1,6 +1,9 @@
 ## YoutubeHistoryRanking
 Youtubeの動画視聴履歴から再生数回数でソートしてランキングを出力するためのプログラム
 
+### Download
+* [Windows]( https://github.com/Be4rJP/YoutubeHIstoryRanking/releases )
+
 ### How to use
 
 1. [Googleのデータエクスポート]( https://takeout.google.com/settings/takeout )からYoutubeの履歴データを選択してダウンロードする
